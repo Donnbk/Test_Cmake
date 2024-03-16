@@ -27,6 +27,5 @@ int main() {
 	cout << "Salary of Mr. A is " << MrA.getSalary() << "\n";
 	cout << "Bonus of Mr. A is " << MrA.bonus << "\n";
 	
-	system("pause");
 	return 0;
 }
